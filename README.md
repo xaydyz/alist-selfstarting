@@ -10,4 +10,4 @@ Let your alist self-starting
 
 4.Paste in the shortcut you just created
 
-5.END
+END
