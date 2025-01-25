@@ -1,7 +1,7 @@
 # alist-selfstarting
 Let your alist self-starting
 
-## How can use it？
+## How to use it？
 1.Download the file and press it into your Alist folder
 
 2.Unzip and create a shortcut
