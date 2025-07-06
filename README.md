@@ -6,7 +6,7 @@ Let your alist self-starting
 
 2.Unzip and create a shortcut
 
-3.input：shell:startup
+3.input shell:startup
 
 4.Paste in the shortcut you just created
 
